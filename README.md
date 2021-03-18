@@ -6,7 +6,7 @@ API lambda con el cual se logro colocar los endpoint en un servidor web y consum
 ## Iniciando
 
 Usando el comando para clonar:
- > git clone
+ > git clone https://github.com/Elan-MarMEn/IETI-lab7.git
 
 Debera abrir el taskApiConsume unicamente en su IDE de preferencia o simplemente accerder directamente a su consola y hacer uso del comando 
 > npm -i
