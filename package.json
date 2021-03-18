@@ -1,0 +1,19 @@
+{
+  "name": "ieti-lab7",
+  "version": "1.0.0",
+  "description": "API task 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elan-MarMEn/IETI-lab7.git"
+  },
+  "author": "Alan Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elan-MarMEn/IETI-lab7/issues"
+  },
+  "homepage": "https://github.com/Elan-MarMEn/IETI-lab7#readme"
+}
